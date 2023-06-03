@@ -1,4 +1,4 @@
-# ⬛️ Black Box AI ⬛️ : An Exploration of Authenticity, Influence, and Bias under the Transhumanist Era 🧠
+# ⬛️ Black Box AI: An Exploration of Authenticity, Influence, and Bias under the Transhumanist Era 🧠
 Zeynep Toprakbasti's DXARTS 472 Spring 2023 Final Project
 
 |                          |                          |
