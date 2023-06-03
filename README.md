@@ -10,10 +10,12 @@ Within the scope of the class theme, "The Anthropocene, Transhumanism and Non-hu
 
 |I                           |  II                          | III                        | IV             |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-|![](/images/left.png.png)  |  ![](/images/stem.png) |  ![](/images/amy.png)     |  ![](/images/right.png) |
+|![](/images/left.png)  |  ![](/images/stem.png) |  ![](/images/amy.png)     |  ![](/images/right.png) |
 
 
 
 ### To Run
+To run, first assemble arduino circuitry as shown in the /arduino/final_schematic.png file using the arduino micrsophone and IR sensor. Upload the code inside of the arduino/ folder or upload the StandardFirmata.ino code from the Arduino library. Finally, run the script inside of /python/.
+### Dataset
 ### Process
 ### References
