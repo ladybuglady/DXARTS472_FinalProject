@@ -58,11 +58,11 @@ def theme_selector():
     # possible theme words
    
     words = filter_words(statement)
-    print("Theme:")
+    #print("Theme:")
     theme = random.choice(words).lower()
     while theme in trivial or len(text[text['content'].str.contains(theme)])==0: # might be 0 after filtering tho..
         theme = random.choice(words).lower()
-    print(theme)
+    #print(theme)
 
     theme_texts = text[text['content'].str.contains(theme)]
     theme_texts = theme_texts.apply(lambda x: filter_content(x['content']), axis=1)
@@ -95,11 +95,17 @@ def theme_emotion_selector(emotion):
     # possible theme words
    
     words = filter_words(statement)
-    print("Theme:")
+    #print("Theme:")
+    while len(words) <= 1:
+        words = filter_words(statement)
     theme = random.choice(words).lower()
-    while theme in trivial or len(text[text['content'].str.contains(theme)])==0: # might be 0 after filtering tho..
+
+    if len(text) < 3:
+        return "Nothing", "nothing."
+
+    while len(text) < 3 or len(text['content'].str.contains(theme)) == 0 or theme in trivial or len(text[text['content'].str.contains(theme)])==0: # might be 0 after filtering tho..
         theme = random.choice(words).lower()
-    print(theme)
+    #print(theme)
    
     theme_texts = text[text['content'].str.contains(theme)]
     # choose emotions
