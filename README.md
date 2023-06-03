@@ -8,9 +8,9 @@ Within the scope of the class theme, "The Anthropocene, Transhumanism and Non-hu
 
 <img src="/images/setup1.png" width="600">
 
-Left Hemisphere         |  Brainstem                    | Amygdala                | Right Hemisphere
+I      |  II                | III              | IV
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](/images/left.png.png)  |  ![](/images/stem.png) |  ![](/images/amy.png)     |  ![](/images/right.png)
+![](/images/left.png.png)  |  ![](/images/stem.png) |  ![](/images/amy.png)     |  ![](/images/right.png) |
 
 <img src="/images/left.png" width="300">
 <img src="/images/stem.png" width="300">
