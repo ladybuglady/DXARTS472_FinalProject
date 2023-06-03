@@ -8,14 +8,10 @@ Within the scope of the class theme, "The Anthropocene, Transhumanism and Non-hu
 
 <img src="/images/setup1.png" width="600">
 
-I      |  II                | III              | IV
+|I                           |  II                          | III                        | IV             |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](/images/left.png.png)  |  ![](/images/stem.png) |  ![](/images/amy.png)     |  ![](/images/right.png) |
+|![](/images/left.png.png)  |  ![](/images/stem.png) |  ![](/images/amy.png)     |  ![](/images/right.png) |
 
-<img src="/images/left.png" width="300">
-<img src="/images/stem.png" width="300">
-<img src="/images/amy.png" width="300">
-<img src="/images/right.png" width="300">
 
 
 ### To Run
