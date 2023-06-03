@@ -7,6 +7,11 @@ Zeynep Toprakbasti's DXARTS 472 Spring 2023 Final Project
 Within the scope of the class theme, "The Anthropocene, Transhumanism and Non-human entities", <em> Black Box AI </em> seeks to explore the implications of a world growing increasingly dependent on automation and big data in order to cultivate meaning in our lives. 
 
 <img src="/images/setup1.png" width="600">
+
+Left Hemisphere         |  Brainstem                    | Amygdala                | Right Hemisphere
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/images/left.png.png)  |  ![](/images/stem.png) |  ![](/images/amy.png)     |  ![](/images/right.png)
+
 <img src="/images/left.png" width="300">
 <img src="/images/stem.png" width="300">
 <img src="/images/amy.png" width="300">
