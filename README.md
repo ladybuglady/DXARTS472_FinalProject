@@ -73,3 +73,5 @@ Robert H. Shmerling, M. (2022, March 24). Right brain/left brain, right?. Harvar
 
 Venkatraman, A., Edlow, B. L., &amp; Immordino-Yang, M. H. (2017, February 20). The brainstem in Emotion: A review. Frontiers. https://www.frontiersin.org/articles/10.3389/fnana.2017.00015/full 
 
+### Acknowledgements
+Special thanks to Dr. Afroditi Psarra and Esteban Agosin for their imperative guidance in this project.
