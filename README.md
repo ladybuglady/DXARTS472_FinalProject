@@ -9,7 +9,6 @@ Within the scope of the class theme, "The Anthropocene, Transhumanism and Non-hu
 
 The intention of this work is to show the emptiness of an intelligence artificially constructed on biased data. It is a commentary on the shifting of values within our society and how we define "meaning" during and after the AI revolution. Under capitalism, technological development is always driven by profit. When profit is the goal, the tools, companions, relationships, ecosystems, and mental pictures we build optimize towards compartmentalized and narrow visions. Interdisciplinary thought as well as natural empathy is abandoned, as we seek to artificially recreate these concepts by means of a rigorous, digital colonization of the human mental landscape.
 
-![](/images/closeup.png) 
 ![](/images/setup.png) 
 
  <em> Black Box </em> seeks to hint at the following questions:
@@ -42,7 +41,6 @@ The intention of this work is to show the emptiness of an intelligence artificia
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 |![](/images/left.png)  |  ![](/images/stem.png) |  ![](/images/amy.png)     |  ![](/images/right.png) |
 
-### Interpretations
 
 ### To Run
 To run, first assemble arduino circuitry as shown in the /arduino/final_schematic.png file using the arduino micrsophone and IR sensor. Upload the code inside of the arduino/ folder or upload the StandardFirmata.ino code from the Arduino library. Finally, run the script inside of /python/.
@@ -52,10 +50,13 @@ To run, first assemble arduino circuitry as shown in the /arduino/final_schemati
 
 ### Future Work
 ### References
-https://www.frontiersin.org/articles/10.3389/fnana.2017.00015/full
-https://www.science.org/doi/10.1126/science.1082244
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6008682/
-https://pubmed.ncbi.nlm.nih.gov/20603163/
-https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222
+Adams RB;Gordon HL;Baird AA;Ambady N;Kleck RE; (2003, June 6). Effects of gaze on amygdala sensitivity to anger and fear faces. Science (New York, N.Y.). https://pubmed.ncbi.nlm.nih.gov/12791983/ 
 
+D;, H. (2010, July 21). Depression and the hyperactive right-hemisphere. Neuroscience research. https://pubmed.ncbi.nlm.nih.gov/20603163/ 
+
+Li, M., Xu, H., &amp; Lu, S. (2018, June 5). Neural basis of depression related to a dominant right hemisphere: A resting-state fmri study. Behavioural neurology. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6008682/ 
+
+Robert H. Shmerling, M. (2022, March 24). Right brain/left brain, right?. Harvard Health. https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222 
+
+Venkatraman, A., Edlow, B. L., &amp; Immordino-Yang, M. H. (2017, February 20). The brainstem in Emotion: A review. Frontiers. https://www.frontiersin.org/articles/10.3389/fnana.2017.00015/full 
 
