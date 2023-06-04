@@ -19,6 +19,11 @@ The intention of this work is to show the emptiness of an intelligence artificia
 4. What are the consequences of digitally mimicking concepts that have been abandoned under capitalism and the patriarchy instead of seeking them out organically?
 5. As a result, how do concepts like: creation, identity, and status manifest in the transhuman efforts to digitally mimic such ideas?
 
+|Screenshot of Black Box program output                          |                     | 
+:-------------------------:|:-------------------------:|
+|![](/images/sc1.png)  |  ![](/images/sc2.png) |
+
+
 ### Research
 
  <em> Black Box </em> features a wire brain sculpture decomposed into 4 main parts: The right hemisphere (I), the brain stem (II), the amygdala(III), and the left hemisphere(IV). Each part is responsible for a set of emotions. In reality, this is not how the brain operates; all areas of the brain work together to serve a variety of functions. However, this project is a metaphor for how the modern approach to artificial intelligence seeks to compartmentlize its tasks without deeper motivation. So, the emotions that each part is responsible for can be thought of as an extreme simplification, or an artistic demonstration of a general idea. 
