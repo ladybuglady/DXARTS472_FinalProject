@@ -36,7 +36,7 @@ The intention of this work is to show the emptiness of an intelligence artificia
 
 
 
- While recent studies show that certain tasks can be sourced to specific regions of the brain, the notion that the left brain is responsible for logic and the right brain responsible for art is largely a myth. People's personalities or strengths cannot be attributed to dominance of a single hemisphere over the other. Rather, specific tasks can be sourced to specific sets of regions within the brain as a whole (Shmerling, 2022). Thus, it is important for all humans to value all different parts of the strengths they have in their ways of thinking.
+ While recent studies show that certain tasks can be sourced to specific regions of the brain, the notion that the left brain is responsible for logic and the right brain responsible for art is largely a myth. People's personalities or strengths cannot be attributed to the dominance of a single hemisphere over the other. Rather, specific tasks can be sourced to specific sets of regions within the brain as a whole (Shmerling, 2022). Thus, it is important for all humans to value all different parts of the strengths they have in their ways of thinking.
 
  In this project, the regions are assigned to emotional themes as follows:
  
