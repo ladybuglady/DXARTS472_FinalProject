@@ -45,17 +45,18 @@ The intention of this work is to show the emptiness of an intelligence artificia
 ### To Run
 Assemble Arduino circuitry as shown below  using the Arduino micrsophone and IR sensor. In place of the LEDs in the diagram, attach the positive side of the brain sections to the corresponding pins. Upload the code file to the Arduino or upload the `StandardFirmata.ino` code from the Arduino library. Finally, run the script in `/python/arduino_firmata_script.py`.
 
-![](/arduino/final_schematic.png)
+<img src="/arduino/final_schematic.png"  width="300">
 
 ### Dataset
 The dataset used for this project was collected from multiple sources on Kaggle.com
 
-[](/images/front.png)   
+<img src="/images/front.png"  width="300"> 
 
 ### Process
 For the software, this project consisted of putting together a script that synthesizes multiple data sources and categorizes and merges different posts of similar sentiment.  For the hardware, the piece consists of a wire brain scultpture and an acrylic black box. The box was built using a laser cutter,  acrylic glue, and fabric to secure the interactive sensors. The brain sculpture was hand molded with electronic 18 AWG copper bus wire. The lights are SMB LEDs and were soldered onto the 18 AWG wire. Upon completion of the wire sculpture, the wires were consolidated inside of the box using heat shrink tubes and then connected to the rest of the circuitry.
 
-<img src="/images/setup.png" width="600">
+<img src="/images/closeup.png"  width="300">
+
 
 ### References
 Adams RB;Gordon HL;Baird AA;Ambady N;Kleck RE; (2003, June 6). Effects of gaze on amygdala sensitivity to anger and fear faces. Science (New York, N.Y.). https://pubmed.ncbi.nlm.nih.gov/12791983/ 
