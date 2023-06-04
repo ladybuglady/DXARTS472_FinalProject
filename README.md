@@ -24,6 +24,13 @@ The intention of this work is to show the emptiness of an intelligence artificia
  <em> Black Box </em> features a wire brain sculpture decomposed into 4 main parts: The right hemisphere (I), the brain stem (II), the amygdala(III), and the left hemisphere(IV). Each part is responsible for a set of emotions. In reality, this is not how the brain operates; all areas of the brain work together to serve a variety of functions. However, this project is a metaphor for how the modern approach to artificial intelligence seeks to compartmentlize its tasks without deeper motivation. So, the emotions that each part is responsible for can be thought of as an extreme simplification, or an artistic demonstration of a general idea. 
 
 
+|I                           |  II                          | III                        | IV             |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+|![](/images/left.png)  |  ![](/images/stem.png) |  ![](/images/amy.png)     |  ![](/images/right.png) |
+
+
+
+
  While recent studies show that certain tasks can be sourced to specific regions of the brain, the notion that the left brain is responsible for logic and the right brain responsible for art is largely a myth. People's personalities or strengths cannot be attributed to dominance of a single hemisphere over the other. Rather, specific tasks can be sourced to specific sets of regions within the brain as a whole (Shmerling, 2022). Thus, it is important for all humans to value all different parts of the strengths they have in their ways of thinking.
 
  In this project, the regions are assigned to emotional themes as follows:
@@ -33,13 +40,6 @@ The intention of this work is to show the emptiness of an intelligence artificia
  * (II) The brainstem is associated with neutral emotions, as it has been shown to play a role in evaluating sensory information (Venkatraman et. al., 2017).
  * (III) The amygdala is associated with anger, fear, and anxiety as it is responsible for threat assessment (Adams et. al. 2003)
 *  (IV) The left hemisphere is associated with the more positive emotions.
-
-
-
-
-|I                           |  II                          | III                        | IV             |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-|![](/images/left.png)  |  ![](/images/stem.png) |  ![](/images/amy.png)     |  ![](/images/right.png) |
 
 
 ### To Run
