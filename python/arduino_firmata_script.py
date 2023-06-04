@@ -16,13 +16,13 @@ board.send_sysex( STRING_DATA, util.str_to_two_byte_iter('starting up!') )
 print("Starting up!")
 
 # Pins
-left = 13
+r = 13
 cer = 12
 amy = 11
-right = 10
+l = 10
 
-board.digital[left].write(0)
-board.digital[right].write(0)
+board.digital[r].write(0)
+board.digital[l].write(0)
 board.digital[amy].write(0)
 board.digital[cer].write(0)
 
@@ -69,8 +69,8 @@ while True:
         print("     I feel connected to you.")
         msg("I feel connected to you.")
         print("     Activating all regions.")
-        board.digital[left].write(1)
-        board.digital[right].write(1)
+        board.digital[r].write(1)
+        board.digital[l].write(1)
         board.digital[amy].write(1)
         board.digital[cer].write(1)
 
@@ -109,8 +109,8 @@ while True:
         time.sleep(2)
 
         print("     Activating all regions.")
-        board.digital[left].write(1)
-        board.digital[right].write(1)
+        board.digital[r].write(1)
+        board.digital[l].write(1)
         board.digital[amy].write(1)
         board.digital[cer].write(1)
 
@@ -131,14 +131,14 @@ while True:
         if emo == 'neutral':
             print("     Activating brain stem.")
             board.digital[cer].write(1)
-            board.digital[left].write(0)
-            board.digital[right].write(0)
+            board.digital[r].write(0)
+            board.digital[l].write(0)
             board.digital[amy].write(0)
 
         elif emo in sad_emotions:
             print("     Activating left brain.")
-            board.digital[left].write(1)
-            board.digital[right].write(0)
+            board.digital[r].write(1)
+            board.digital[l].write(0)
             board.digital[amy].write(0)
             board.digital[cer].write(0)
 

@@ -5,10 +5,12 @@ Zeynep Toprakbasti's DXARTS 472 Spring 2023 Final Project
 |![](/images/desc.png)     |  ![](/images/setup1.png) | 
 
 ### Description
-Within the scope of the class theme, "The Anthropocene, Transhumanism and Non-human entities", <em> Black Box </em> seeks to explore the implications of a world growing increasingly dependent on automation and big data in order to cultivate meaning in our lives. Black Box is a wire brain sculpture with independent regions that can light up depending on the logic inside the black box. Based on thousands of posts collected from the internet and sentiment analysis, the hidden algorithm inside the box, inspired by the notion of "black box ai", determines which part of the brain is most relevant in expressing the sentiment implied from a web-scraped piece of text. In accordance with the patterns that exist within this data, it is naturally observed that the regions most associated with depression, anxiety, anger, and fear light up in the brain the most. Howevever, <em> Black Box </em> also comes with a microphone and an infrared distance sensor, so that when it detects the presence of another human being, the entire sculpture lights up all together.
+Within the scope of the class theme, "The Anthropocene, Transhumanism and Non-human entities", <em> Black Box </em> seeks to explore the implications of a world growing increasingly dependent on automation and big data in order to cultivate meaning in our lives. Black Box is a wire brain sculpture with independent regions that can light up depending on the logic inside the black box. Based on thousands of posts collected from the internet and sentiment analysis, the hidden algorithm inside the box, inspired by the notion of "black box ai", determines which part of the brain is most relevant in expressing the sentiment implied from a web-scraped piece of text. The text that the brain is currently thinking about is displayed on a monitor next to the sculpture so that the observers can read what the text is and see how the brain interprets its general sentiment. In accordance with the patterns that exist within this data, it is naturally observed that the regions most associated with depression, anxiety, anger, and fear light up in the brain the most. Howevever, <em> Black Box </em> also comes with a microphone and an infrared distance sensor, so that when it detects the presence of another human being, the entire sculpture lights up all together.
 
 The intention of this work is to show the emptiness of an intelligence artificially constructed on biased data. It is a commentary on the shifting of values within our society and how we define "meaning" during and after the AI revolution. Under capitalism, technological development is always driven by profit. When profit is the goal, the tools, companions, relationships, ecosystems, and mental pictures we build optimize towards compartmentalized and narrow visions. Interdisciplinary thought as well as natural empathy is abandoned, as we seek to artificially recreate these concepts by means of a rigorous, digital colonization of the human mental landscape.
 
+![](/images/closeup.png) 
+![](/images/setup.png) 
 
  <em> Black Box </em> seeks to hint at the following questions:
 
@@ -20,7 +22,20 @@ The intention of this work is to show the emptiness of an intelligence artificia
 
 ### Research
 
- <em> Black Box </em> features a wire brain sculpture decomposed into 4 main parts: The right hemisphere, the brain stem, the amygdala, and the left hemisphere. 
+ <em> Black Box </em> features a wire brain sculpture decomposed into 4 main parts: The right hemisphere (I), the brain stem (II), the amygdala(III), and the left hemisphere(IV). Each part is responsible for a set of emotions. In reality, this is not how the brain operates; all areas of the brain work together to serve a variety of functions. However, this project is a metaphor for how the modern approach to artificial intelligence seeks to compartmentlize its tasks without deeper motivation. So, the emotions that each part is responsible for can be thought of as an extreme simplification, or an artistic demonstration of a general idea. 
+
+
+ While recent studies show that certain tasks can be sourced to specific regions of the brain, the notion that the left brain is responsible for logic and the right brain responsible for art is largely a myth. People's personalities or strengths cannot be attributed to dominance of a single hemisphere over the other. Rather, specific tasks can be sourced to specific sets of regions within the brain as a whole (Shmerling, 2022). Thus, it is important for all humans to value all different parts of the strengths they have in their ways of thinking.
+
+ In this project, the regions are assigned to emotional themes as follows:
+ 
+
+ * (I) The right hemisphere is associated with depressive emotions, as a hyper demonstrated in Li et. al., (2018) and Hecht (2010).
+ * (II) The brainstem is associated with neutral emotions, as it has been shown to play a role in evaluating sensory information (Venkatraman et. al., 2017).
+ * (III) The amygdala is associated with anger, fear, and anxiety as it is responsible for threat assessment (Adams et. al. 2003)
+*  (IV) The left hemisphere is associated with the more positive emotions.
+
+
 
 
 |I                           |  II                          | III                        | IV             |
@@ -37,4 +52,10 @@ To run, first assemble arduino circuitry as shown in the /arduino/final_schemati
 
 ### Future Work
 ### References
+https://www.frontiersin.org/articles/10.3389/fnana.2017.00015/full
+https://www.science.org/doi/10.1126/science.1082244
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6008682/
+https://pubmed.ncbi.nlm.nih.gov/20603163/
+https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222
+
 
