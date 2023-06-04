@@ -19,9 +19,9 @@ The intention of this work is to show the emptiness of an intelligence artificia
 4. What are the consequences of digitally mimicking concepts that have been abandoned under capitalism and the patriarchy instead of seeking them out organically?
 5. As a result, how do concepts like: creation, identity, and status manifest in the transhuman efforts to digitally mimic such ideas?
 
-|Screenshot of Black Box program output                          |                     | 
-:-------------------------:|:-------------------------:|
-|![](/images/sc1.png)  |  ![](/images/sc2.png) |
+|Screenshot of Black Box program output  | 
+|:-------------------------:|
+|![](/images/sc1.png)  ![](/images/sc2.png)       |
 
 
 ### Research
