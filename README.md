@@ -48,7 +48,7 @@ The intention of this work is to show the emptiness of an intelligence artificia
 
 
 ### To Run
-Assemble Arduino circuitry as shown below  using the Arduino micrsophone and IR sensor. In place of the LEDs in the diagram, attach the positive side of the brain sections to the corresponding pins. Upload the code file to the Arduino or upload the `StandardFirmata.ino` code from the Arduino library. Finally, run the script in `/python/arduino_firmata_script.py`.
+Assemble Arduino circuitry as shown below  using the Arduino microphone and IR sensor. In place of the LEDs in the diagram, attach the positive side of the brain sections to the corresponding pins. Upload the code file to the Arduino or upload the `StandardFirmata.ino` code from the Arduino library. Finally, run the `/python/arduino_firmata_script.py` script.
 
 <img src="/arduino/final_schematic.png"  width="600">
 
@@ -57,7 +57,7 @@ The dataset used for this project was collected from multiple sources on Kaggle.
 
 
 ### Process
-For the software, this project consisted of putting together a script that synthesizes multiple data sources and categorizes and merges different posts of similar sentiment.  For the hardware, the piece consists of a wire brain scultpture and an acrylic black box. The box was built using a laser cutter,  acrylic glue, and fabric to secure the interactive sensors. The brain sculpture was hand molded with electronic 18 AWG copper bus wire. The lights are SMB LEDs and were soldered onto the 18 AWG wire. Upon completion of the wire sculpture, the wires were consolidated inside of the box using heat shrink tubes and then connected to the rest of the circuitry.
+For the software, this project consisted of putting together a script that synthesizes multiple data sources and merges different posts of similar sentiment.  For the hardware, the piece consists of a wire brain scultpture and an acrylic black box. The box was built using a laser cutter,  acrylic glue, and fabric to secure the interactive sensors. The brain sculpture was hand molded with electronic 18 AWG copper bus wire. The lights are SMB LEDs and were soldered onto the 18 AWG wire. Upon completion of the wire sculpture, the wires were consolidated inside of the box using heat shrink tubes and then connected to the rest of the circuitry.
 
 <img align="right" src="/images/closeup.png"  width="300">
 
