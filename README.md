@@ -1,5 +1,5 @@
 # ⬛️ Black Box: An Exploration of Authenticity, Influence, and Bias under the Transhumanist Era 🧠
-Zeynep Toprakbasti's DXARTS 472 Spring 2023 Final Project
+Zeynep Toprakbasti's DXARTS 472 Mechatronics Art Spring 2023 Final Project
 |||
 :-------------------------:|:-------------------------:
 |![](/images/desc.png)     |  ![](/images/setup1.png) | 
