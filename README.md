@@ -41,7 +41,7 @@ The intention of this work is to show the emptiness of an intelligence artificia
  In this project, the regions are assigned to emotional themes as follows:
  
 
- * (I) The right hemisphere is associated with depressive emotions, as a hyper demonstrated in Li et. al., (2018) and Hecht (2010).
+ * (I) Hyperactivity in the the right hemisphere is associated with depressive emotions, as demonstrated in Li et. al., (2018) and Hecht (2010).
  * (II) The brainstem is associated with neutral emotions, as it has been shown to play a role in evaluating sensory information (Venkatraman et. al., 2017).
  * (III) The amygdala is associated with anger, fear, and anxiety as it is responsible for threat assessment (Adams et. al. 2003)
 *  (IV) The left hemisphere is associated with the more positive emotions.
